@@ -1,52 +1,32 @@
-# 🚀 VerbalEdge
+📱 Screenshots
+🏠 VerbalEdge Home Screen
 
-**Sharpen Your Placement Advantage**
+1-VerbalEdge-Home Screen
 
-VerbalEdge is an AI-assisted placement readiness platform designed to help engineering students strengthen their verbal skills and prepare for TCS NQT assessments through structured practice and realistic mock simulations.
+🌟 Welcome Banner & Placement Tip
 
----
+2-VerbalEdge-Welcome Banner & Placement Tip
 
-## 📚 Features
+📖 Learn & Practice – Reading Comprehension Drill
 
-### Learn & Practice Modules
-- Reading Comprehension Drill
-- Sentence Correction Drill
-- Cloze Test Vocabulary Master
-- Grammar Mastery & Concept Builder
+3-VerbalEdge-Learn & Practice-RC Drill
 
-### 🎯 TCS NQT Verbal Challenge
-- 24 Questions
-- 24 Minutes
-- Progressive Difficulty
-- 100 TCS-style Questions Repository
-- Auto Submit
-- Results & Analytics
+✏️ Learn & Practice – Sentence Correction Drill
 
----
+4-VerbalEdge-Learn & Practice-Sentence Correction Drill
 
-## 🛠 Technologies Used
+📝 Cloze Test Vocabulary Master
 
-- Google AI Studio
-- Gemini 3.5 Flash
-- Android App Builder
-- GitHub
+5-VerbalEdge-Cloze Test Vocabulary Master
 
----
+📚 Grammar Mastery & Concept Builder
 
-## 🚀 Future Roadmap
+6-VerbalEdge-Grammar Mastry & Concept Builder
 
-- Firebase Authentication
-- Student Progress Tracking
-- AI Coach and Personalized Feedback
-- Faculty Dashboard
-- Achievement System
+🎯 TCS Verbal Assessment – Challenge Yourself
 
----
+7-VerbalEdge-TCS Verabl Assessment-Challenge Yourself
 
-## 👨‍🏫 Developed By
+🚀 TCS Verbal Assessment – Start Challenge Page
 
-**Dr. Anil Kumar Doddapaneni**
-
-Teacher | Placement Trainer | Researcher
-
-Focused on developing innovative AI-powered educational solutions to enhance placement readiness among engineering students.
+8-VerbalEdge-TCS Verabl Assessment-Start Challenge Page
