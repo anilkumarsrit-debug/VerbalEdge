@@ -1,25 +1,25 @@
 ## 📱 Screenshots
 
-### 🏠 VerbalEdge Home Screen
-![](./1-VerbalEdge-Home%20Screen.jpeg)
+### 🏠 Home Screen
+![](home-screen.jpeg)
 
 ### 🌟 Welcome Banner & Placement Tip
-![](./2-VerbalEdge-Welcome%20Banner%20%26%20Placement%20Tip.jpeg)
+![](welcome-banner.jpeg)
 
-### 📖 Learn & Practice – Reading Comprehension Drill
-![](./3-VerbalEdge-Learn%20%26%20Practice-RC%20Drill.jpeg)
+### 📖 Reading Comprehension Drill
+![](rc-drill.jpeg)
 
-### ✏️ Learn & Practice – Sentence Correction Drill
-![](./4-VerbalEdge-Learn%20%26%20Practice-Sentence%20Correction%20Drill.jpeg)
+### ✏️ Sentence Correction Drill
+![](sentence-drill.jpeg)
 
 ### 📝 Cloze Test Vocabulary Master
-![](./5-VerbalEdge-Cloze%20Test%20Vocabulary%20Master.jpeg)
+![](cloze-master.jpeg)
 
 ### 📚 Grammar Mastery & Concept Builder
-![](./6-VerbalEdge-Grammar%20Mastry%20%26%20Concept%20Builder.jpeg)
+![](grammar-mastery.jpeg)
 
-### 🎯 TCS Verbal Assessment – Challenge Yourself
-![](./7-VerbalEdge-TCS%20Verabl%20Assessment-Challenge%20Yourself.jpeg)
+### 🎯 TCS Verbal Challenge
+![](challenge-yourself.jpeg)
 
-### 🚀 TCS Verbal Assessment – Start Challenge Page
-![](./8-VerbalEdge-TCS%20Verabl%20Assessment-Start%20Challenge%20Page.jpeg)
+### 🚀 Start Challenge Page
+![](start-challenge.jpeg)
